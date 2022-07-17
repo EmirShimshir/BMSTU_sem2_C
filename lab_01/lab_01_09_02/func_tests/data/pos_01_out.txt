@@ -1,0 +1,2 @@
+Enter x's:
+Result: 2.370882

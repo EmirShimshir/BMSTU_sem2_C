@@ -1,0 +1,2 @@
+Enter x's:
+Error: incorrect series

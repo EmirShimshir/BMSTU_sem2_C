@@ -1,0 +1,2 @@
+Enter a, n:
+Error: negative n

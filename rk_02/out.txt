@@ -1,0 +1,4 @@
+123456, 654321
+654321, 123456
+abcdef, fedcba
+fedcba, abcdef

@@ -1,0 +1,4 @@
+Enter sec:
+hour = 1
+min = 0
+sec = 0
